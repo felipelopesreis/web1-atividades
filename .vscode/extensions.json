@@ -4,6 +4,7 @@
         "manasky.lorem-space",
         "antfu.vite",
         "dracula-theme.theme-dracula",
-        "rangav.vscode-thunder-client"
+        "rangav.vscode-thunder-client",
+        "Perkovec.emoji"
     ]
 }
